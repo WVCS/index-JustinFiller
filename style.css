@@ -1,40 +1,33 @@
-h1 {
-  color: white;
-  font-size: 80px;
-}
-body {
-  background-color: #2b2d42;
-}
-img {
-  width: 50%;
-  border: dashed 5px #118ab2;
-}
-img:hover {
-  border: dashed 5px white;
-}
-ul{
-  list-stlye-type: none;
-  background-color: #111;
-  width: 200%;
-  overflow: hidden;
-  position: sticky;
-  left: 0;
-  top: 0;
-  margin: 0;
-}
-li{
-  float: ;
-}
-li a{
-  display: block;
-  color: white;
-  text-decoration: none;
-  padding: 10px 30px;
-}
-li a:hover{
-  display: block;
-  font-size: 150%;
-  color: #0077b6;
-  text-decoration: none;
-  padding: 20px 50px;
-}
+<html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tab Title</title>
+</head>
+
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html"> Home </a></li>
+      <li><a href="page2.html"> Page 2 </a></li>
+  </nav>
+  <center>
+    <h1>
+      Justin's Website
+    </h1>
+  </center>
+  <br>
+  <center>
+    <img src=https://wallpaperaccess.com/full/5657890.jpg>
+  </center>
+  <center>
+    <p>
+      ^ Plane above: North American P-51D Mustang
+    </p>
+  </center>
+
+</body>
+
+</html>
