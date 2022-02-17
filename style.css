@@ -38,3 +38,17 @@ li a:hover{
   text-decoration: none;
   padding: 20px 50px;
 }
+table, th, td {
+  color: #0077b6;
+  border: 1px solid black;
+  padding: 10px;
+  font-size: 150%;
+  border-radius: 10px;
+  border-color: gray;
+  float: center;
+  text-align: center;
+}
+th:hover {
+  background-color: #D6EEEE;}
+td:hover {
+  background-color: #D6EEEE;}
