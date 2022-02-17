@@ -1,0 +1,40 @@
+<html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Justin Filler</title>
+</head>
+
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html"> Home </a></li>
+      <li><a href="page2.html"> Page 2 </a></li>
+      <li><a href="table.html"> Class schedule </a></li>
+  </nav>
+  <center>
+    <h1>
+      Justin's Class schedule
+    </h1>
+  </center>
+  <br>
+  <center>
+    <table style="width:90%">
+      <tr>
+        <th>Period 1</th>
+        <th>Period 2</th>
+        <th>Period 3</th>
+        <th>Period 4</th>
+      </tr>
+      <tr>
+        <td>Accedmic success</td>
+        <td>Avid / Us History</td>
+        <td>Computer information systems</td>
+        <td>Math int 3a/b</td>
+      </tr>
+    </table>
+
+</html>
